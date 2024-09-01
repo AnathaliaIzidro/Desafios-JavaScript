@@ -5,7 +5,7 @@ O projeto foi desenvolvido utilizando:
 - JavaScript, com foco em manipulação de DOM, cálculos, recursividade, e manipulação de strings e arrays.
 
 📑 Descrição do Projeto
-Este projeto reúne 6 desafios diferentes, cada um com um botão que, ao ser clicado, solicita a entrada de dados do usuário e realiza uma operação específica de acordo com a lógica do desafio.
+Este projeto reúne 6 desafios diferentes, cada um com um botão que, ao ser clicado, solicita a entrada de dados do usuário e realiza uma operação específica de acordo com a lógica do desafio. 
 No Botão PDF o usuário pode visualizar o arquivo com a descrição de cada desafio.
 
 🗂 Estrutura do Projeto
