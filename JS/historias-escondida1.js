@@ -6,6 +6,7 @@ document.getElementById('desafio5').addEventListener('click', function() {
     }
 
     let input = prompt("Informe uma string:");
+    <--Exclui os caracteres que não são letras. -->
     let filteredInput = input.replace(/[^a-z]/gi, '').toLowerCase();
 
     if (!filteredInput) {
